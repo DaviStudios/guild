@@ -11,7 +11,7 @@ let ranks = {
     user: 'davkoagent',
     chars: ['sonic', 'garou']
   },
-  "strongest banana": {
+  "strongest nugget": {
     rank: 'c-1',
     kills: '300-400',
     user: 'omerokhoseso_team',
