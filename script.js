@@ -2,7 +2,7 @@ let ranks = {
   "rubedo": {
     rank: 'A-1',
     kills: '700-800',
-    user: 'Dobytyry',
+    user: 'Robytyry',
     chars: ['Atomic', 'Saitama', 'Genos']
   },
   "stormcaller": {
