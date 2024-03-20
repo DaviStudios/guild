@@ -7,12 +7,12 @@ let ranks = {
   },
   "stormcaller": {
     rank: 'b-1',
-    kills: '100-200',
+    kills: '200-300',
     user: 'davkoagent',
     chars: ['sonic', 'garou']
   },
   "strongest banana": {
-    rank: 'b-2',
+    rank: 'c-1',
     kills: '300-400',
     user: 'omerokhoseso_team',
     chars: ['garou', 'saitama']
