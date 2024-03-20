@@ -1,21 +1,21 @@
 let ranks = {
   "rubedo": {
-    rank: 'a-1',
+    rank: 'A-1',
     kills: '700-800',
-    user: 'robytyry',
-    chars: ['atomic', 'saitama', 'genos']
+    user: 'Dobytyry',
+    chars: ['Atomic', 'Saitama', 'Genos']
   },
   "stormcaller": {
-    rank: 'b-1',
+    rank: 'B-1',
     kills: '200-300',
-    user: 'davkoagent',
-    chars: ['sonic', 'garou']
+    user: 'Davkoagent',
+    chars: ['Sonic', 'Garou']
   },
   "strongest nugget": {
-    rank: 'd-1',
+    rank: 'D-1',
     kills: '300-400',
-    user: 'omerokhoseso_team',
-    chars: ['garou', 'saitama']
+    user: 'Omerokhoseso_team',
+    chars: ['Garou', 'Saitama']
   },
 }
 
