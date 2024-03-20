@@ -12,7 +12,7 @@ let ranks = {
     chars: ['sonic', 'garou']
   },
   "strongest nugget": {
-    rank: 'c-1',
+    rank: 'd-1',
     kills: '300-400',
     user: 'omerokhoseso_team',
     chars: ['garou', 'saitama']
