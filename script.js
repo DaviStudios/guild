@@ -7,7 +7,7 @@ let ranks = {
   },
   "stormcaller": {
     rank: 'B-1',
-    kills: '200-300',
+    kills: '300-400',
     user: 'Davkoagent',
     chars: ['Sonic', 'Garou']
   },
