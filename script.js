@@ -17,6 +17,12 @@ let ranks = {
     user: 'Omerokhoseso_team',
     chars: ['Garou', 'Saitama']
   },
+  "foolish destroyer": {
+    rank: 'A-2',
+    kills: '2400-2500',
+    user: 'Unknown',
+    chars: ['Garou', 'Saitama', 'Atomic']
+  },
 }
 
 function search(t) {
